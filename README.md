@@ -58,8 +58,8 @@ The data preparation process involved multiple stages to ensure data quality and
 Healthcare-Analytics-Dashboard/
 │
 ├── Healthcare_Analytics.pbix          # Power BI report file
-├── Dataset.xlsx                       # Cleaned dataset (Excel format)
-├── Dataset.csv                        # Cleaned dataset (CSV format)
+├── Outpatient.csv                       # Cleaned dataset (CSV format)
+├── Inpatient.csv                        # Cleaned dataset (CSV format)
 ├── Dashboard_Screenshots/             # Visual overview of report pages
 │   ├── overview_page.png
 │   ├── detail_page.png
@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions or feedback, please reach out:
-- **Email**: your.email@example.com
+- **Email**: devizzzy@gmail.com
 - **LinkedIn**: [Deblina Mandal](https://www.linkedin.com/in/deblina-mandal-615507273/?originalSubdomain=in)
 - **GitHub**: [httpsdevi](https://github.com/httpsdevi)
 
